@@ -120,6 +120,7 @@ Individual team members can obtain extra credit (to offset a poor mark in a prev
 - Add graphics to the game
 - ...
 
+---
 ### Group Work Division
 
 __Shubham__ 
